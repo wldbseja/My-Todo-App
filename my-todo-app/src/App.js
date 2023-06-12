@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Todo App에 FE 프레임워크 적용 과제 진행
         </p>
         <a
           className="App-link"
